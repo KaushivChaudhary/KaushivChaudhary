@@ -32,6 +32,10 @@ A passionate professional dedicated to leveraging data in roles such as Data Ana
 #### Project 2: Employee attrition analysis
 - Conducted analysis to identify key factors influencing turnover and improve retention strategies.
 - **Tools:** Python, SQL, Scikit-learn, Matplotlib, Seaborn, Advanced Excel, Power BI
+#### Project 3: Coal Price Analysis
+- Optimizing procurement and pricing strategies to achieve a 10% profit margin increase and a 20%
+revenue boost from coal sales within the first year.
+
 
 
 ## 📫 How to Reach Me
