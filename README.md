@@ -1,13 +1,19 @@
 # 👋 Hi, I’m @KaushivChaudhary
 
-A passionate professional dedicated to leveraging data in roles such as Data Analyst, Business Analyst, Data Engineer, and my favorite, Data Scientist. I focus on transforming complex data into actionable insights to drive impactful decisions.
+IT professional with more than 2+ years of experience in 
+the Identity & Access Management Technology space 
+using Saviynt's IGA platform
+ • Well versed on IAM concepts and industry best practices
+ • Proven expertise implementing JML solutions and 
+onboarding medium to complex applications using both 
+OOTB connectors & REST API integrations
+ • Excellent problem-solving skills to address complex IAM 
+challenges and providing innovative solutions.
 
-## I’m passionate about:
+## I’m passionate about: SAVIYNT EIC , Identity Access Management (IAM), Talk about Identities , Lifecycle Management Onboarding to Offboarding 
+    JML (Joiner, Mover, Leaver) flow
 
-- **Harnessing Data:** Transforming raw data into meaningful insights and solutions.
-- **Exploring Trends:** Identifying patterns and trends to drive strategic decisions.
-- **Data-Driven Storytelling:** Creating compelling visualizations that translate complex data into actionable narratives.
-- **Machine Learning:** Supervised learning, Unsupervised Learning, Clustering, Forecasting
+
 
 ## Skills:
 
