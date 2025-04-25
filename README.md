@@ -11,7 +11,7 @@ OOTB connectors & REST API integrations
 challenges and providing innovative solutions.
 
 ## I’m passionate about: SAVIYNT EIC , Identity Access Management (IAM), Talk about Identities , Lifecycle Management Onboarding to Offboarding 
-    JML (Joiner, Mover, Leaver) flow
+    
 
 
 
