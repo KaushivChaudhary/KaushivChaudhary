@@ -10,7 +10,7 @@ OOTB connectors & REST API integrations
  • Excellent problem-solving skills to address complex IAM 
 challenges and providing innovative solutions.
 
-## I’m passionate about: SAVIYNT EIC , Identity Access Management (IAM), Talk about Identities , Lifecycle Management Onboarding to Offboarding 
+## I’m passionate about: SAVIYNT EIC , Identity Access Management (IAM), Talk about Identities , Lifecycle Management Onboarding to Offboarding , Application Onboarding
     
 
 
